@@ -53,3 +53,4 @@ License
 This project is for educational and hostel internal use. Redistribute or modify as needed for similar campus scenarios.
 
 Enjoy using LAUNDRIFY for a cleaner, smarter hostel laundry experience!
+
